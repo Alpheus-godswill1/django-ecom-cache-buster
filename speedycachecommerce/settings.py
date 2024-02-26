@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'speedyshop.urls'
+ROOT_URLCONF = 'speedycachecommerce.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'speedyshop.wsgi.application'
+WSGI_APPLICATION = 'speedycachecommerce.wsgi.application'
 
 
 # Database

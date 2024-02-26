@@ -1,5 +1,5 @@
 """
-WSGI config for speedyshop project.
+WSGI config for speedycachecommerce project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
